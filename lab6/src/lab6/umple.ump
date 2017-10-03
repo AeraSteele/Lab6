@@ -1,0 +1,29 @@
+class Customer
+{
+  int age;
+  address;
+  account Account;
+  order Order;
+  firstName;
+  lastName;
+}
+
+class Account
+{
+  int acctnum;
+double balance;
+double deposit;
+double withdraw;
+double getbalance;
+isA Customer;
+}
+
+class Order
+{
+  int ordernum;
+double price;
+shiptime;
+date;
+getCreationDate;
+isA Customer;
+}

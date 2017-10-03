@@ -1,0 +1,3 @@
+Umple doesn't specify public or private, isA should probably be hasA, my bad. 
+The plugin can be used to organize class structures.
+My code specifies methods while umple doesn't. 
